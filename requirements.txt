@@ -1,0 +1,9 @@
+fastapi
+python-multipart
+pillow
+torch
+torchvision
+numpy
+pandas
+filetype
+uvicorn
